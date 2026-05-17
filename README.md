@@ -1,10 +1,10 @@
+
 # VisionScope AI 👁️
 
 **Real-Time Human Body Part Detection using Python, Flask, MediaPipe & React**
 
-<img width="1307" height="690" alt="VisionScope" src="https://github.com/user-attachments/assets/ec32e17b-1f5d-495c-9d02-f25c5c9e3964" />
 
-
+<img width="1307" height="690" alt="VisionScope" src="https://github.com/user-attachments/assets/4b8e332c-7346-442e-9a13-789971b9ef7a" />
 
 
 > An internship-level full-stack AI computer vision project by **Dulana Chathurma**.
